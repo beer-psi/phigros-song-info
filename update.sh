@@ -17,7 +17,7 @@ pushd work
 
 curl -LO https://github.com/majd/ipatool/releases/download/v2.1.3/ipatool-2.1.3-linux-amd64.tar.gz
 tar xzvf ipatool-2.1.3-linux-amd64.tar.gz 
-sudo install -Dm755 bin/ipatool-2.1.3-linux-amd64 /usr/local/bin/
+sudo install -Dm755 bin/ipatool-2.1.3-linux-amd64 /usr/local/bin/ipatool
 rm -r bin ipatool-2.1.3-linux-amd64.tar.gz
 
 cargo install partialzip
