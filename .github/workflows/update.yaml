@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Run
-        run: ./update.sh
+        run: ./update.sh ${{ secrets.IPATOOL_USERNAME }} ${{ secrets.IPATOOL_PASSWORD }}
       
       - name: Get Phigros version
         id: version

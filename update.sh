@@ -1,4 +1,4 @@
-curl.exe "https://itunes.apple.com/lookup?entity=software,iPadSoftware&limit=1&media=software&bundleId=games.Pigeon.Phigros" \
+curl "https://itunes.apple.com/lookup?entity=software,iPadSoftware&limit=1&media=software&bundleId=games.Pigeon.Phigros" \
     | jq -r .results[0].version \
     | tr -d "\r" \
     | cmp -s .phigros-version -
@@ -8,7 +8,7 @@ if [ "$?" -eq "0" ]; then
     exit 0
 fi
 
-curl.exe "https://itunes.apple.com/lookup?entity=software,iPadSoftware&limit=1&media=software&bundleId=games.Pigeon.Phigros" \
+curl "https://itunes.apple.com/lookup?entity=software,iPadSoftware&limit=1&media=software&bundleId=games.Pigeon.Phigros" \
     | jq -r .results[0].version \
     | tr -d "\r" > .phigros-version
 
@@ -16,7 +16,7 @@ mkdir -p work
 pushd work
 
 curl -LO https://github.com/majd/ipatool/releases/download/v2.1.3/ipatool-2.1.3-linux-amd64.tar.gz
-tar xzvf work/ipatool-2.1.3-linux-amd64.tar.gz 
+tar xzvf ipatool-2.1.3-linux-amd64.tar.gz 
 sudo install -Dm755 bin/ipatool-2.1.3-linux-amd64 /usr/local/bin/
 rm -r bin ipatool-2.1.3-linux-amd64.tar.gz
 
