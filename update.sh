@@ -22,8 +22,8 @@ rm -r bin ipatool-2.1.3-linux-amd64.tar.gz
 
 cargo install partialzip
 
-ipatool auth login -e "$1" -p "$2" --keychain-passphrase "" --non-interactive
-ipatool download -b games.Pigeon.Phigros -o phigros.ipa --keychain-passphrase "" --non-interactive
+ipatool auth login -e "$1" -p "$2" --keychain-passphrase "grass" --non-interactive
+ipatool download -b games.Pigeon.Phigros -o phigros.ipa --keychain-passphrase "grass" --non-interactive
 
 partialzip download file://$PWD/phigros.ipa Payload/Phigros.app/Data/level0 level0
 
