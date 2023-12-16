@@ -3,7 +3,7 @@ name: update song data
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 16 * * 5
+    - cron: 0 9 * * 5
 
 jobs:
   build:
