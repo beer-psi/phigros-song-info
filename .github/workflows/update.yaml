@@ -1,0 +1,26 @@
+name: update song data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 16 * * 5
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run
+        run: ./update.sh
+      
+      - name: Get Phigros version
+        id: version
+        run: echo "version=$(cat .phigros-version)" >> "$GITHUB_OUTPUT"
+      
+      - name: Commit if changed
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: songs.json
+          default_author: github_actions
+          message: "Phigros ${{ steps.version.outputs.version }}"
