@@ -12,15 +12,23 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Run
-        run: ./update.sh ${{ secrets.IPATOOL_USERNAME }} ${{ secrets.IPATOOL_PASSWORD }}
-      
-      - name: Get Phigros version
-        id: version
-        run: echo "version=$(cat .phigros-version)" >> "$GITHUB_OUTPUT"
+        id: update
+        run: |
+          cp .phigros-version .phigros-version-old
+          
+          ./update.sh ${{ secrets.IPATOOL_USERNAME }} ${{ secrets.IPATOOL_PASSWORD }}
+
+          cmp -s .phigros-version-old .phigros-version
+          echo "updated=$?" >> "$GITHUB_OUTPUT"
+          echo "version=$(cat .phigros-version)" >> "$GITHUB_OUTPUT"
+
+          rm .phigros-version-old
       
       - name: Commit if changed
         uses: EndBug/add-and-commit@v9
+        if: ${{ steps.update.outputs.updated == '1' }}
         with:
           add: songs.json .phigros-version
+          tag: "v${{ steps.update.outputs.version }}"
           default_author: github_actions
-          message: "Phigros ${{ steps.version.outputs.version }}"
+          message: "Phigros ${{ steps.update.outputs.version }}"
