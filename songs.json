@@ -9886,6 +9886,67 @@
         ]
     },
     {
+        "songsId": "bye.DingerBox.0",
+        "songsKey": "bye",
+        "songsName": "bye",
+        "difficulty": [
+            4.0,
+            8.3,
+            14.9,
+            0.0
+        ],
+        "illustrator": "海产",
+        "charter": [
+            "Likey",
+            "Likey",
+            "Ner ~ See you next time ~",
+            ""
+        ],
+        "composer": "DingerBox",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 109.5,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
         "songsId": "cryout.JuE.0",
         "songsKey": "cryout",
         "songsName": "cryout",
@@ -11984,6 +12045,67 @@
             "AT"
         ],
         "previewTime": 45.692,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "聖夜讃歌.A39沙包P.0",
+        "songsKey": "聖夜讃歌",
+        "songsName": "聖夜讃歌",
+        "difficulty": [
+            4.0,
+            10.1,
+            15.3,
+            0.0
+        ],
+        "illustrator": "绀屋",
+        "charter": [
+            "爽夜讃歌",
+            "爽夜讃歌",
+            "NerSANTA & Gausbell",
+            ""
+        ],
+        "composer": "A-39/沙包P",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 148.8,
         "unlockInfo": [
             {
                 "unlockType": 0,
