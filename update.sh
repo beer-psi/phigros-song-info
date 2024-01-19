@@ -23,10 +23,10 @@ ipatool download -b games.Pigeon.Phigros -o phigros.ipa --keychain-passphrase "g
 
 partialzip download "file://$PWD/phigros.ipa" Payload/Phigros.app/Data/level0 level0
 
+popd || exit 1
+
 curl "https://itunes.apple.com/lookup?entity=software,iPadSoftware&limit=1&media=software&bundleId=games.Pigeon.Phigros" \
     | jq -r .results[0].version \
     | tr -d "\r" > .phigros-version
-
-popd || exit 1
 
 dotnet run -- work/level0
