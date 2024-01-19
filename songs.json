@@ -5647,6 +5647,67 @@
         ]
     },
     {
+        "songsId": "KMoeVIP.ZxNX.0",
+        "songsKey": "K.Moe (VIP)",
+        "songsName": "K.Moe (VIP)",
+        "difficulty": [
+            3.0,
+            8.4,
+            15.8,
+            0.0
+        ],
+        "illustrator": "BTKCyber (青鸟 modified)",
+        "charter": [
+            "R:kko (IMD)",
+            "R:kko (IMD)",
+            "C.Max (PBM)",
+            ""
+        ],
+        "composer": "ZxNX",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 73.0,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
         "songsId": "Kerberos.Zris.0",
         "songsKey": "Kerberos",
         "songsName": "Kerberos",
@@ -6220,6 +6281,67 @@
             "AT"
         ],
         "previewTime": 28.395,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "ManifoldHypothesis.cybermisofeattigerlily.0",
+        "songsKey": "Manifold Hypothesis",
+        "songsName": "Manifold Hypothesis",
+        "difficulty": [
+            4.0,
+            9.9,
+            14.7,
+            0.0
+        ],
+        "illustrator": "阿清 (青鸟 modified)",
+        "charter": [
+            "Likey",
+            "Likey",
+            "Gausbon feat. 迟戈&野从",
+            ""
+        ],
+        "composer": "cybermiso feat. tigerlily",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 21.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10947,6 +11069,67 @@
             "AT"
         ],
         "previewTime": 23.314,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "ストレイソウルアラウンド.みーに.0",
+        "songsKey": "ストレイソウル・アラウンド",
+        "songsName": "ストレイソウル・アラウンド",
+        "difficulty": [
+            5.0,
+            10.4,
+            14.5,
+            0.0
+        ],
+        "illustrator": "伊恩 (青鸟 modified)",
+        "charter": [
+            "JKy as \"Stray Cat\"",
+            "Stray Cat Around",
+            "クラッタ・アナザー・ラウンド",
+            ""
+        ],
+        "composer": "みーに",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 22.4,
         "unlockInfo": [
             {
                 "unlockType": 0,
