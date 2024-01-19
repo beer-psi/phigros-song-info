@@ -1,3 +1,5 @@
+set -e
+
 if curl "https://itunes.apple.com/lookup?entity=software,iPadSoftware&limit=1&media=software&bundleId=games.Pigeon.Phigros" \
        | jq -r .results[0].version \
        | tr -d "\r" \
@@ -5,10 +7,6 @@ if curl "https://itunes.apple.com/lookup?entity=software,iPadSoftware&limit=1&me
     echo "Phigros wasn't updated."
     exit 0
 fi
-
-curl "https://itunes.apple.com/lookup?entity=software,iPadSoftware&limit=1&media=software&bundleId=games.Pigeon.Phigros" \
-    | jq -r .results[0].version \
-    | tr -d "\r" > .phigros-version
 
 mkdir -p work
 pushd work || exit 1
@@ -24,6 +22,10 @@ ipatool auth login -e "$1" -p "$2" --keychain-passphrase "grass" --non-interacti
 ipatool download -b games.Pigeon.Phigros -o phigros.ipa --keychain-passphrase "grass" --non-interactive
 
 partialzip download "file://$PWD/phigros.ipa" Payload/Phigros.app/Data/level0 level0
+
+curl "https://itunes.apple.com/lookup?entity=software,iPadSoftware&limit=1&media=software&bundleId=games.Pigeon.Phigros" \
+    | jq -r .results[0].version \
+    | tr -d "\r" > .phigros-version
 
 popd || exit 1
 
