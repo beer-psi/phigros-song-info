@@ -5,7 +5,7 @@
         "songsName": "996",
         "difficulty": [
             4.0,
-            8.1,
+            9.1,
             14.6,
             0.0
         ],
@@ -24,6 +24,7 @@
             "AT"
         ],
         "previewTime": 48.0,
+        "previewEndTime": 63.428,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -85,6 +86,7 @@
             "AT"
         ],
         "previewTime": 60.304,
+        "previewEndTime": 70.659,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -145,7 +147,8 @@
             "IN",
             "AT"
         ],
-        "previewTime": 52.363,
+        "previewTime": 54.545,
+        "previewEndTime": 72.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -207,6 +210,7 @@
             "AT"
         ],
         "previewTime": 55.896,
+        "previewEndTime": 70.896,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -271,6 +275,7 @@
             "Legacy"
         ],
         "previewTime": 11.519,
+        "previewEndTime": 26.456,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -336,6 +341,7 @@
             "AT"
         ],
         "previewTime": 24.0,
+        "previewEndTime": 42.285,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -397,6 +403,7 @@
             "AT"
         ],
         "previewTime": 76.916,
+        "previewEndTime": 98.75,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -439,7 +446,7 @@
         "songsName": "Another Round",
         "difficulty": [
             3.0,
-            7.5,
+            8.7,
             13.3,
             0.0
         ],
@@ -458,6 +465,7 @@
             "AT"
         ],
         "previewTime": 46.641,
+        "previewEndTime": 63.743,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -519,6 +527,7 @@
             "AT"
         ],
         "previewTime": 82.967,
+        "previewEndTime": 97.967,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -580,6 +589,7 @@
             "AT"
         ],
         "previewTime": 54.818,
+        "previewEndTime": 69.545,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -641,6 +651,7 @@
             "AT"
         ],
         "previewTime": 106.745,
+        "previewEndTime": 119.547,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -701,7 +712,8 @@
             "IN",
             "AT"
         ],
-        "previewTime": 42.686,
+        "previewTime": 42.667,
+        "previewEndTime": 53.333,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -743,7 +755,7 @@
         "songsKey": "-Arkhei-",
         "songsName": "-Arkhei-",
         "difficulty": [
-            5.5,
+            6.5,
             9.7,
             12.6,
             0.0
@@ -763,6 +775,7 @@
             "AT"
         ],
         "previewTime": 64.0,
+        "previewEndTime": 80.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -804,7 +817,7 @@
         "songsKey": "Aventyr",
         "songsName": "Äventyr",
         "difficulty": [
-            2.5,
+            3.0,
             9.4,
             13.7,
             0.0
@@ -824,6 +837,7 @@
             "AT"
         ],
         "previewTime": 9.2,
+        "previewEndTime": 31.076,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -885,6 +899,7 @@
             "AT"
         ],
         "previewTime": 44.16,
+        "previewEndTime": 59.16,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -946,6 +961,7 @@
             "AT"
         ],
         "previewTime": 44.0,
+        "previewEndTime": 62.714,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1007,6 +1023,7 @@
             "AT"
         ],
         "previewTime": 21.333,
+        "previewEndTime": 36.333,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1068,6 +1085,7 @@
             "AT"
         ],
         "previewTime": 23.36,
+        "previewEndTime": 38.36,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1129,6 +1147,7 @@
             "AT"
         ],
         "previewTime": 48.0,
+        "previewEndTime": 64.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1190,6 +1209,7 @@
             "AT"
         ],
         "previewTime": 45.01,
+        "previewEndTime": 60.181,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1251,6 +1271,7 @@
             "AT"
         ],
         "previewTime": 83.324,
+        "previewEndTime": 103.324,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1315,6 +1336,7 @@
             "Legacy"
         ],
         "previewTime": 77.72,
+        "previewEndTime": 99.54,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1360,7 +1382,7 @@
         "songsKey": "Burn",
         "songsName": "Burn",
         "difficulty": [
-            4.0,
+            6.0,
             10.6,
             14.9,
             0.0
@@ -1380,6 +1402,7 @@
             "AT"
         ],
         "previewTime": 81.0,
+        "previewEndTime": 96.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1441,6 +1464,7 @@
             "AT"
         ],
         "previewTime": 92.4,
+        "previewEndTime": 111.6,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1502,6 +1526,7 @@
             "AT"
         ],
         "previewTime": 57.58,
+        "previewEndTime": 73.67,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1563,6 +1588,7 @@
             "AT"
         ],
         "previewTime": 99.295,
+        "previewEndTime": 114.514,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1624,6 +1650,7 @@
             "AT"
         ],
         "previewTime": 62.76,
+        "previewEndTime": 84.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1685,6 +1712,7 @@
             "AT"
         ],
         "previewTime": 70.387,
+        "previewEndTime": 87.753,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1727,7 +1755,7 @@
         "songsName": "Chronos Collapse - La Campanella",
         "difficulty": [
             3.0,
-            11.2,
+            11.5,
             15.9,
             0.0
         ],
@@ -1746,6 +1774,7 @@
             "AT"
         ],
         "previewTime": 12.214,
+        "previewEndTime": 30.033,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1807,6 +1836,7 @@
             "AT"
         ],
         "previewTime": 36.283,
+        "previewEndTime": 51.511,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1868,6 +1898,7 @@
             "AT"
         ],
         "previewTime": 37.54,
+        "previewEndTime": 60.33,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1929,6 +1960,7 @@
             "AT"
         ],
         "previewTime": 73.5,
+        "previewEndTime": 92.5,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -1990,6 +2022,7 @@
             "AT"
         ],
         "previewTime": 114.428,
+        "previewEndTime": 142.285,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2051,6 +2084,7 @@
             "AT"
         ],
         "previewTime": 47.02,
+        "previewEndTime": 61.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2112,6 +2146,7 @@
             "AT"
         ],
         "previewTime": 112.0,
+        "previewEndTime": 123.636,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2153,8 +2188,8 @@
         "songsKey": "Concvssion",
         "songsName": "Concvssion",
         "difficulty": [
-            4.0,
-            10.2,
+            5.5,
+            11.3,
             15.5,
             0.0
         ],
@@ -2173,6 +2208,7 @@
             "AT"
         ],
         "previewTime": 96.02,
+        "previewEndTime": 117.482,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2234,6 +2270,7 @@
             "AT"
         ],
         "previewTime": 95.0,
+        "previewEndTime": 110.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2295,6 +2332,69 @@
             "AT"
         ],
         "previewTime": 32.0,
+        "previewEndTime": 47.0,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "CrushBETA.shadow_bling.0",
+        "songsKey": "Crush BETA",
+        "songsName": "Crush BETA",
+        "difficulty": [
+            4.0,
+            11.5,
+            15.3,
+            0.0
+        ],
+        "illustrator": "笔记RE",
+        "charter": [
+            "Clutter BETA",
+            "Crush βETA",
+            "Timi今天吃神马",
+            ""
+        ],
+        "composer": "shadow_bling",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 47.849,
+        "previewEndTime": 70.776,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2398,7 +2498,7 @@
         "songsName": "Cthugha",
         "difficulty": [
             7.0,
-            12.3,
+            11.9,
             15.6,
             15.8
         ],
@@ -2417,6 +2517,7 @@
             "AT"
         ],
         "previewTime": 56.901,
+        "previewEndTime": 79.436,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2459,8 +2560,8 @@
         "songsName": "DESTRUCTION 3,2,1",
         "difficulty": [
             7.0,
-            12.9,
-            15.9,
+            13.1,
+            15.8,
             16.6
         ],
         "illustrator": "rN",
@@ -2478,6 +2579,7 @@
             "AT"
         ],
         "previewTime": 105.318,
+        "previewEndTime": 123.961,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2541,7 +2643,8 @@
             "IN",
             "AT"
         ],
-        "previewTime": 114.4,
+        "previewTime": 114.375,
+        "previewEndTime": 129.375,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2603,6 +2706,7 @@
             "AT"
         ],
         "previewTime": 60.035,
+        "previewEndTime": 76.872,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2664,6 +2768,7 @@
             "AT"
         ],
         "previewTime": 52.0,
+        "previewEndTime": 72.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2725,6 +2830,7 @@
             "AT"
         ],
         "previewTime": 14.627,
+        "previewEndTime": 34.096,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2786,6 +2892,7 @@
             "AT"
         ],
         "previewTime": 89.729,
+        "previewEndTime": 107.027,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2827,8 +2934,8 @@
         "songsKey": "Demonkin",
         "songsName": "Demonkin",
         "difficulty": [
-            6.0,
-            10.7,
+            5.5,
+            10.3,
             13.7,
             0.0
         ],
@@ -2847,6 +2954,7 @@
             "AT"
         ],
         "previewTime": 42.5,
+        "previewEndTime": 62.5,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2889,7 +2997,7 @@
         "songsName": "Diamond Eyes",
         "difficulty": [
             4.0,
-            8.2,
+            7.5,
             13.4,
             0.0
         ],
@@ -2908,6 +3016,7 @@
             "AT"
         ],
         "previewTime": 97.285,
+        "previewEndTime": 112.714,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -2969,6 +3078,7 @@
             "AT"
         ],
         "previewTime": 27.386,
+        "previewEndTime": 47.309,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3011,7 +3121,7 @@
         "songsName": "Distorted Fate",
         "difficulty": [
             7.5,
-            12.9,
+            13.5,
             15.9,
             16.7
         ],
@@ -3030,6 +3140,7 @@
             "AT"
         ],
         "previewTime": 99.4,
+        "previewEndTime": 119.4,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3094,6 +3205,7 @@
             "AT"
         ],
         "previewTime": 23.0,
+        "previewEndTime": 38.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3137,7 +3249,7 @@
         "difficulty": [
             4.5,
             11.7,
-            15.6,
+            15.5,
             0.0
         ],
         "illustrator": "Arahosi",
@@ -3155,6 +3267,7 @@
             "AT"
         ],
         "previewTime": 87.771,
+        "previewEndTime": 110.114,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3216,6 +3329,7 @@
             "AT"
         ],
         "previewTime": 3.87,
+        "previewEndTime": 16.614,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3257,7 +3371,7 @@
         "songsKey": "Dreamland",
         "songsName": "Dreamland",
         "difficulty": [
-            5.0,
+            6.0,
             9.8,
             13.2,
             0.0
@@ -3277,6 +3391,7 @@
             "AT"
         ],
         "previewTime": 113.5,
+        "previewEndTime": 128.5,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3338,6 +3453,7 @@
             "AT"
         ],
         "previewTime": 60.95,
+        "previewEndTime": 93.33,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3402,6 +3518,7 @@
             "Legacy"
         ],
         "previewTime": 85.526,
+        "previewEndTime": 99.12,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3445,7 +3562,7 @@
         "difficulty": [
             5.5,
             11.5,
-            15.8,
+            15.9,
             16.5
         ],
         "illustrator": "猫箱Catbox feat. 祈莲",
@@ -3463,6 +3580,7 @@
             "AT"
         ],
         "previewTime": 75.13,
+        "previewEndTime": 97.826,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3504,7 +3622,7 @@
         "songsKey": "El Condor Pasa (Phigros Edit)",
         "songsName": "El Condor Pasa (Phigros Edit)",
         "difficulty": [
-            4.5,
+            6.0,
             12.5,
             15.5,
             0.0
@@ -3524,6 +3642,7 @@
             "AT"
         ],
         "previewTime": 76.8,
+        "previewEndTime": 91.2,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3585,6 +3704,7 @@
             "AT"
         ],
         "previewTime": 48.0,
+        "previewEndTime": 58.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3626,7 +3746,7 @@
         "songsKey": "Eltaw",
         "songsName": "Eltaw",
         "difficulty": [
-            6.0,
+            6.5,
             10.5,
             14.4,
             0.0
@@ -3646,6 +3766,7 @@
             "AT"
         ],
         "previewTime": 90.015,
+        "previewEndTime": 110.051,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3707,6 +3828,7 @@
             "AT"
         ],
         "previewTime": 41.514,
+        "previewEndTime": 61.514,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3768,6 +3890,7 @@
             "AT"
         ],
         "previewTime": 66.0,
+        "previewEndTime": 86.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3829,6 +3952,7 @@
             "AT"
         ],
         "previewTime": 47.74,
+        "previewEndTime": 69.67,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3890,6 +4014,7 @@
             "AT"
         ],
         "previewTime": 48.012,
+        "previewEndTime": 60.014,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3951,6 +4076,7 @@
             "AT"
         ],
         "previewTime": 81.428,
+        "previewEndTime": 98.571,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -3993,7 +4119,7 @@
         "songsName": "FULi AUTO BUSTER",
         "difficulty": [
             5.0,
-            8.6,
+            9.3,
             14.7,
             0.0
         ],
@@ -4012,6 +4138,7 @@
             "AT"
         ],
         "previewTime": 79.451,
+        "previewEndTime": 102.62,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4073,6 +4200,7 @@
             "AT"
         ],
         "previewTime": 53.781,
+        "previewEndTime": 67.862,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4134,6 +4262,7 @@
             "AT"
         ],
         "previewTime": 37.5,
+        "previewEndTime": 67.5,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4195,6 +4324,7 @@
             "AT"
         ],
         "previewTime": 110.66,
+        "previewEndTime": 134.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4256,6 +4386,7 @@
             "AT"
         ],
         "previewTime": 78.76,
+        "previewEndTime": 93.76,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4317,6 +4448,69 @@
             "AT"
         ],
         "previewTime": 67.0,
+        "previewEndTime": 81.0,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0",
+        "songsKey": "Freaky Undulations ~Noble Knights of Tune~",
+        "songsName": "Freaky Undulations ~Noble Knights of Tune~",
+        "difficulty": [
+            7.0,
+            11.9,
+            15.1,
+            0.0
+        ],
+        "illustrator": "PEZZ feat. 祈莲 & CattoHato",
+        "charter": [
+            "Ner ~Freaky Cat of Charting~",
+            "ARE YOU JEITIE!!!",
+            "<= Noblesse Jeitie =>",
+            ""
+        ],
+        "composer": "Jehezukiel + KURORAK",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 11.881,
+        "previewEndTime": 21.386,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4378,6 +4572,7 @@
             "AT"
         ],
         "previewTime": 65.347,
+        "previewEndTime": 85.351,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4419,7 +4614,7 @@
         "songsKey": "GOODBOUNCE",
         "songsName": "GOODBOUNCE",
         "difficulty": [
-            5.5,
+            6.5,
             11.6,
             14.4,
             0.0
@@ -4439,6 +4634,7 @@
             "AT"
         ],
         "previewTime": 44.0,
+        "previewEndTime": 64.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4500,6 +4696,7 @@
             "AT"
         ],
         "previewTime": 102.705,
+        "previewEndTime": 117.705,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4542,7 +4739,7 @@
         "songsName": "GOODRAGE",
         "difficulty": [
             4.5,
-            7.5,
+            8.2,
             15.7,
             0.0
         ],
@@ -4561,6 +4758,7 @@
             "AT"
         ],
         "previewTime": 90.81,
+        "previewEndTime": 109.18,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4622,6 +4820,7 @@
             "AT"
         ],
         "previewTime": 91.893,
+        "previewEndTime": 106.893,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4683,6 +4882,69 @@
             "AT"
         ],
         "previewTime": 105.826,
+        "previewEndTime": 123.463,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0",
+        "songsKey": "G.V.N. (Glitter,Vomitus and Neon)",
+        "songsName": "G.V.N. (Glitter,Vomitus and Neon)",
+        "difficulty": [
+            5.0,
+            9.5,
+            15.6,
+            0.0
+        ],
+        "illustrator": "祈莲",
+        "charter": [
+            "B.B.M.",
+            "B.B.M.",
+            "A.S.H.",
+            ""
+        ],
+        "composer": "Salty Salt & Unfold33",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 100.807,
+        "previewEndTime": 115.724,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4805,6 +5067,7 @@
             "AT"
         ],
         "previewTime": 30.0,
+        "previewEndTime": 46.875,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4846,9 +5109,9 @@
         "songsKey": "Get Ready!! ",
         "songsName": "Get Ready!! ",
         "difficulty": [
-            4.5,
-            8.7,
-            13.7,
+            5.0,
+            10.2,
+            13.8,
             0.0
         ],
         "illustrator": "あおお/A-ZERO, morph",
@@ -4866,6 +5129,7 @@
             "AT"
         ],
         "previewTime": 96.338,
+        "previewEndTime": 109.859,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4927,6 +5191,7 @@
             "AT"
         ],
         "previewTime": 15.42,
+        "previewEndTime": 42.85,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -4972,7 +5237,7 @@
         "songsKey": "HAZARD",
         "songsName": "HAZARD",
         "difficulty": [
-            3.5,
+            4.5,
             10.9,
             14.7,
             0.0
@@ -4992,6 +5257,7 @@
             "AT"
         ],
         "previewTime": 28.133,
+        "previewEndTime": 46.889,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5053,6 +5319,7 @@
             "AT"
         ],
         "previewTime": 78.5,
+        "previewEndTime": 91.5,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5114,6 +5381,7 @@
             "AT"
         ],
         "previewTime": 41.099,
+        "previewEndTime": 56.099,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5175,6 +5443,7 @@
             "AT"
         ],
         "previewTime": 84.989,
+        "previewEndTime": 101.328,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5236,6 +5505,7 @@
             "AT"
         ],
         "previewTime": 26.056,
+        "previewEndTime": 49.4,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5279,7 +5549,7 @@
         "difficulty": [
             7.5,
             12.4,
-            14.6,
+            14.7,
             16.3
         ],
         "illustrator": "knife美工刀",
@@ -5297,6 +5567,7 @@
             "AT"
         ],
         "previewTime": 48.0,
+        "previewEndTime": 73.333,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5358,6 +5629,7 @@
             "AT"
         ],
         "previewTime": 79.826,
+        "previewEndTime": 94.826,
         "unlockInfo": [
             {
                 "unlockType": 2,
@@ -5407,7 +5679,7 @@
         "difficulty": [
             3.5,
             8.4,
-            13.6,
+            13.9,
             0.0
         ],
         "illustrator": "DoublePian",
@@ -5425,6 +5697,7 @@
             "AT"
         ],
         "previewTime": 48.826,
+        "previewEndTime": 73.45,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5486,6 +5759,7 @@
             "AT"
         ],
         "previewTime": 15.005,
+        "previewEndTime": 31.89,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5547,6 +5821,7 @@
             "AT"
         ],
         "previewTime": 0.0,
+        "previewEndTime": 0.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5610,6 +5885,7 @@
             "AT"
         ],
         "previewTime": 84.027,
+        "previewEndTime": 102.693,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5671,6 +5947,7 @@
             "AT"
         ],
         "previewTime": 40.5,
+        "previewEndTime": 65.5,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5732,6 +6009,7 @@
             "AT"
         ],
         "previewTime": 111.219,
+        "previewEndTime": 126.219,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5793,6 +6071,7 @@
             "AT"
         ],
         "previewTime": 73.0,
+        "previewEndTime": 88.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5854,6 +6133,69 @@
             "AT"
         ],
         "previewTime": 99.898,
+        "previewEndTime": 115.0,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "Khalid.Dolphin.0",
+        "songsKey": "Khalid",
+        "songsName": "Khalid",
+        "difficulty": [
+            4.0,
+            8.2,
+            13.1,
+            0.0
+        ],
+        "illustrator": "HAZUQU",
+        "charter": [
+            "Barbarialid",
+            "Barbarialid",
+            "Ner＜Jazz for your soul .)",
+            ""
+        ],
+        "composer": "Dolphin",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 54.375,
+        "previewEndTime": 69.375,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5915,6 +6257,7 @@
             "AT"
         ],
         "previewTime": 84.5,
+        "previewEndTime": 100.5,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -5975,7 +6318,8 @@
             "IN",
             "AT"
         ],
-        "previewTime": 41.0,
+        "previewTime": 40.421,
+        "previewEndTime": 63.158,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6017,8 +6361,8 @@
         "songsKey": "Leave All Behind",
         "songsName": "Leave All Behind",
         "difficulty": [
-            2.5,
-            6.5,
+            3.0,
+            7.5,
             12.7,
             0.0
         ],
@@ -6037,6 +6381,7 @@
             "AT"
         ],
         "previewTime": 27.188,
+        "previewEndTime": 40.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6098,6 +6443,7 @@
             "AT"
         ],
         "previewTime": 106.304,
+        "previewEndTime": 130.434,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6159,6 +6505,7 @@
             "AT"
         ],
         "previewTime": 97.446,
+        "previewEndTime": 112.765,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6202,24 +6549,28 @@
         "difficulty": [
             5.0,
             11.6,
-            15.9,
-            16.2
+            15.8,
+            16.2,
+            15.9
         ],
         "illustrator": "何呵",
         "charter": [
             "Arenn Saki as \"mAze\"",
             "Arenn Saki as \"myStery\"",
-            "Arenn Saki as \"lAβyrinS\"",
-            "CN_115 as \"prediCameNt\""
+            "XMT as \"eX-MentalisT\"",
+            "CN_115 as \"prediCameNt\"",
+            "Arenn Saki as \"lAβyrinS\""
         ],
         "composer": "ユメミド",
         "levels": [
             "EZ",
             "HD",
             "IN",
-            "AT"
+            "AT",
+            "Legacy"
         ],
         "previewTime": 92.866,
+        "previewEndTime": 114.577,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6281,6 +6632,7 @@
             "AT"
         ],
         "previewTime": 17.14,
+        "previewEndTime": 32.57,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6342,6 +6694,7 @@
             "AT"
         ],
         "previewTime": 59.166,
+        "previewEndTime": 75.416,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6403,6 +6756,7 @@
             "AT"
         ],
         "previewTime": 28.395,
+        "previewEndTime": 47.989,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6464,6 +6818,7 @@
             "AT"
         ],
         "previewTime": 21.0,
+        "previewEndTime": 34.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6525,6 +6880,7 @@
             "AT"
         ],
         "previewTime": 63.04,
+        "previewEndTime": 83.2,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6590,6 +6946,7 @@
             "AT"
         ],
         "previewTime": 28.953,
+        "previewEndTime": 43.953,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6633,7 +6990,7 @@
         "difficulty": [
             2.0,
             8.6,
-            12.9,
+            13.1,
             0.0
         ],
         "illustrator": "NEKO&海产",
@@ -6651,6 +7008,7 @@
             "AT"
         ],
         "previewTime": 39.35,
+        "previewEndTime": 51.81,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6692,7 +7050,7 @@
         "songsKey": "Next Time",
         "songsName": "Next Time",
         "difficulty": [
-            5.0,
+            6.0,
             9.2,
             12.6,
             0.0
@@ -6712,6 +7070,7 @@
             "AT"
         ],
         "previewTime": 45.247,
+        "previewEndTime": 67.21,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6773,6 +7132,7 @@
             "AT"
         ],
         "previewTime": 67.014,
+        "previewEndTime": 82.014,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6814,7 +7174,7 @@
         "songsKey": "Nick of Time",
         "songsName": "Nick of Time",
         "difficulty": [
-            4.5,
+            5.0,
             8.1,
             14.4,
             0.0
@@ -6834,6 +7194,7 @@
             "AT"
         ],
         "previewTime": 68.6,
+        "previewEndTime": 83.6,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6877,7 +7238,7 @@
         "difficulty": [
             5.5,
             11.8,
-            15.8,
+            15.7,
             0.0
         ],
         "illustrator": "cycats",
@@ -6895,6 +7256,7 @@
             "AT"
         ],
         "previewTime": 63.085,
+        "previewEndTime": 76.682,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6956,6 +7318,7 @@
             "AT"
         ],
         "previewTime": 86.582,
+        "previewEndTime": 103.101,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7017,6 +7380,7 @@
             "AT"
         ],
         "previewTime": 11.287,
+        "previewEndTime": 24.356,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7059,7 +7423,7 @@
         "songsName": "Orthodox",
         "difficulty": [
             4.5,
-            10.6,
+            11.1,
             14.3,
             0.0
         ],
@@ -7078,6 +7442,69 @@
             "AT"
         ],
         "previewTime": 55.443,
+        "previewEndTime": 70.443,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "PANICPARADISE.DJSHIONY.0",
+        "songsKey": "PANIC PARADISE",
+        "songsName": "PANIC PARADISE",
+        "difficulty": [
+            5.0,
+            11.5,
+            15.4,
+            0.0
+        ],
+        "illustrator": "百九十八",
+        "charter": [
+            "Barianic Baradise",
+            "Barianic Baradise",
+            "Su1fuR -FAISEURS DE PANIQUE-",
+            ""
+        ],
+        "composer": "DJ SHION.Y",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 48.0,
+        "previewEndTime": 69.588,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7139,6 +7566,7 @@
             "AT"
         ],
         "previewTime": 129.14,
+        "previewEndTime": 149.71,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7181,7 +7609,7 @@
         "songsName": "Palescreen",
         "difficulty": [
             5.5,
-            11.8,
+            12.3,
             15.7,
             0.0
         ],
@@ -7200,6 +7628,7 @@
             "AT"
         ],
         "previewTime": 24.971,
+        "previewEndTime": 38.497,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7261,6 +7690,7 @@
             "AT"
         ],
         "previewTime": 55.3,
+        "previewEndTime": 75.3,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7322,6 +7752,7 @@
             "AT"
         ],
         "previewTime": 110.4,
+        "previewEndTime": 139.2,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7383,6 +7814,7 @@
             "AT"
         ],
         "previewTime": 20.5,
+        "previewEndTime": 40.5,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7426,7 +7858,7 @@
         "difficulty": [
             5.5,
             10.7,
-            15.2,
+            15.1,
             0.0
         ],
         "illustrator": "林语",
@@ -7444,6 +7876,7 @@
             "AT"
         ],
         "previewTime": 41.0,
+        "previewEndTime": 61.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7505,6 +7938,7 @@
             "AT"
         ],
         "previewTime": 79.542,
+        "previewEndTime": 93.257,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7566,6 +8000,69 @@
             "AT"
         ],
         "previewTime": 96.032,
+        "previewEndTime": 118.295,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "QuantumHyperspace.D_AAN.0",
+        "songsKey": "Quantum Hyperspace",
+        "songsName": "Quantum Hyperspace",
+        "difficulty": [
+            6.0,
+            11.2,
+            14.8,
+            0.0
+        ],
+        "illustrator": "sa1t",
+        "charter": [
+            "Bariantum Hyperianerman",
+            "Bariantum Hyperianerman",
+            "IMD_0b0110",
+            ""
+        ],
+        "composer": "D_AAN",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 69.6,
+        "previewEndTime": 79.2,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7627,6 +8124,7 @@
             "AT"
         ],
         "previewTime": 52.682,
+        "previewEndTime": 81.951,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7688,6 +8186,7 @@
             "AT"
         ],
         "previewTime": 107.2,
+        "previewEndTime": 132.8,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7749,6 +8248,7 @@
             "AT"
         ],
         "previewTime": 29.0,
+        "previewEndTime": 44.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7810,6 +8310,7 @@
             "AT"
         ],
         "previewTime": 67.0,
+        "previewEndTime": 88.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7852,7 +8353,7 @@
         "songsName": "Random",
         "difficulty": [
             6.0,
-            11.1,
+            12.2,
             14.7,
             0.0
         ],
@@ -7871,6 +8372,69 @@
             "AT"
         ],
         "previewTime": 78.0,
+        "previewEndTime": 108.0,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "ReEndofaDream.umavsモリモリあつし.0",
+        "songsKey": "Re：End of a Dream",
+        "songsName": "Re：End of a Dream",
+        "difficulty": [
+            7.5,
+            13.1,
+            15.8,
+            16.4
+        ],
+        "illustrator": "masiro vs. adaptor",
+        "charter": [
+            "Barbarianerman, Overture before the story",
+            "Barbarianerman, Main theme within the somnium",
+            "Latency, Finale of the dream",
+            "XMT, Encore after the end"
+        ],
+        "composer": "uma vs. モリモリあつし",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 114.34,
+        "previewEndTime": 123.396,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7932,6 +8496,7 @@
             "AT"
         ],
         "previewTime": 30.4,
+        "previewEndTime": 46.4,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7993,6 +8558,7 @@
             "AT"
         ],
         "previewTime": 47.068,
+        "previewEndTime": 62.068,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8054,6 +8620,7 @@
             "AT"
         ],
         "previewTime": 95.675,
+        "previewEndTime": 110.675,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8115,6 +8682,7 @@
             "AT"
         ],
         "previewTime": 102.315,
+        "previewEndTime": 122.526,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8176,6 +8744,7 @@
             "AT"
         ],
         "previewTime": 84.622,
+        "previewEndTime": 99.797,
         "unlockInfo": [
             {
                 "unlockType": 2,
@@ -8243,6 +8812,7 @@
             "AT"
         ],
         "previewTime": 46.87,
+        "previewEndTime": 63.74,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8304,6 +8874,7 @@
             "AT"
         ],
         "previewTime": 81.2,
+        "previewEndTime": 107.2,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8367,6 +8938,7 @@
             "AT"
         ],
         "previewTime": 42.24,
+        "previewEndTime": 62.72,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8428,6 +9000,7 @@
             "AT"
         ],
         "previewTime": 54.666,
+        "previewEndTime": 68.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8489,6 +9062,7 @@
             "AT"
         ],
         "previewTime": 96.0,
+        "previewEndTime": 109.5,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8531,7 +9105,7 @@
         "songsName": "Sein",
         "difficulty": [
             4.5,
-            9.2,
+            9.8,
             14.9,
             0.0
         ],
@@ -8550,6 +9124,7 @@
             "AT"
         ],
         "previewTime": 37.738,
+        "previewEndTime": 52.187,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8591,7 +9166,7 @@
         "songsKey": "Shadow",
         "songsName": "Shadow",
         "difficulty": [
-            4.5,
+            6.0,
             10.3,
             14.5,
             15.9
@@ -8611,6 +9186,7 @@
             "AT"
         ],
         "previewTime": 105.0,
+        "previewEndTime": 120.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8676,6 +9252,7 @@
             "AT"
         ],
         "previewTime": 68.986,
+        "previewEndTime": 92.203,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8737,6 +9314,7 @@
             "AT"
         ],
         "previewTime": 77.5,
+        "previewEndTime": 92.5,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8798,6 +9376,7 @@
             "AT"
         ],
         "previewTime": 32.0,
+        "previewEndTime": 47.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8840,7 +9419,7 @@
         "songsName": "Spasmodic",
         "difficulty": [
             7.5,
-            12.6,
+            13.3,
             15.2,
             16.3
         ],
@@ -8859,6 +9438,7 @@
             "AT"
         ],
         "previewTime": 72.6,
+        "previewEndTime": 92.4,
         "unlockInfo": [
             {
                 "unlockType": 2,
@@ -8926,6 +9506,7 @@
             "AT"
         ],
         "previewTime": 57.103,
+        "previewEndTime": 72.103,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -8987,6 +9568,7 @@
             "AT"
         ],
         "previewTime": 63.3,
+        "previewEndTime": 80.7,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9048,6 +9630,7 @@
             "AT"
         ],
         "previewTime": 42.666,
+        "previewEndTime": 65.333,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9093,7 +9676,7 @@
         "songsName": "Sultan Rage",
         "difficulty": [
             4.0,
-            8.5,
+            7.0,
             12.5,
             0.0
         ],
@@ -9112,6 +9695,7 @@
             "AT"
         ],
         "previewTime": 15.87,
+        "previewEndTime": 30.87,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9173,6 +9757,7 @@
             "AT"
         ],
         "previewTime": 103.88,
+        "previewEndTime": 118.209,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9234,6 +9819,7 @@
             "AT"
         ],
         "previewTime": 99.5,
+        "previewEndTime": 113.038,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9276,7 +9862,7 @@
         "songsName": "The Chariot ~REVIIVAL~",
         "difficulty": [
             5.0,
-            10.2,
+            9.5,
             14.4,
             0.0
         ],
@@ -9295,6 +9881,7 @@
             "AT"
         ],
         "previewTime": 80.84,
+        "previewEndTime": 102.135,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9356,6 +9943,7 @@
             "AT"
         ],
         "previewTime": 18.897,
+        "previewEndTime": 33.897,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9397,8 +9985,8 @@
         "songsKey": "Time to Night Sky (feat. Lee Yu Jin)",
         "songsName": "Time to Night Sky (feat. Lee Yu Jin)",
         "difficulty": [
-            2.5,
-            9.1,
+            3.0,
+            10.1,
             13.6,
             0.0
         ],
@@ -9417,6 +10005,7 @@
             "AT"
         ],
         "previewTime": 61.876,
+        "previewEndTime": 78.745,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9478,6 +10067,7 @@
             "AT"
         ],
         "previewTime": 3.2,
+        "previewEndTime": 25.248,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9539,6 +10129,7 @@
             "AT"
         ],
         "previewTime": 76.793,
+        "previewEndTime": 98.962,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9600,6 +10191,7 @@
             "AT"
         ],
         "previewTime": 87.187,
+        "previewEndTime": 102.656,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9641,7 +10233,7 @@
         "songsKey": "Unorthodox Thoughts",
         "songsName": "Unorthodox Thoughts",
         "difficulty": [
-            4.5,
+            5.0,
             11.3,
             13.9,
             0.0
@@ -9661,6 +10253,7 @@
             "AT"
         ],
         "previewTime": 108.0,
+        "previewEndTime": 126.575,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9704,7 +10297,7 @@
         "difficulty": [
             5.5,
             10.8,
-            15.3,
+            15.4,
             0.0
         ],
         "illustrator": "Iriss=Frantzz=s-don",
@@ -9722,6 +10315,7 @@
             "AT"
         ],
         "previewTime": 100.645,
+        "previewEndTime": 130.645,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9783,6 +10377,7 @@
             "AT"
         ],
         "previewTime": 107.294,
+        "previewEndTime": 127.058,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9825,7 +10420,7 @@
         "songsName": "Wavetapper",
         "difficulty": [
             4.5,
-            7.0,
+            8.3,
             13.8,
             0.0
         ],
@@ -9844,6 +10439,7 @@
             "AT"
         ],
         "previewTime": 2.139,
+        "previewEndTime": 19.297,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9905,6 +10501,7 @@
             "AT"
         ],
         "previewTime": 9.5,
+        "previewEndTime": 24.5,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9966,6 +10563,7 @@
             "AT"
         ],
         "previewTime": 109.1,
+        "previewEndTime": 127.1,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10009,7 +10607,7 @@
         "difficulty": [
             5.5,
             9.9,
-            13.8,
+            13.9,
             0.0
         ],
         "illustrator": "打雷打人（青鸟 modified）",
@@ -10027,6 +10625,7 @@
             "AT"
         ],
         "previewTime": 85.088,
+        "previewEndTime": 107.122,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10071,7 +10670,7 @@
             6.0,
             11.7,
             14.6,
-            15.8
+            15.6
         ],
         "illustrator": "Lanota © Noxy Games Inc. ",
         "charter": [
@@ -10088,6 +10687,7 @@
             "AT"
         ],
         "previewTime": 117.798,
+        "previewEndTime": 131.048,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10154,6 +10754,7 @@
             "AT"
         ],
         "previewTime": 109.5,
+        "previewEndTime": 127.5,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10215,6 +10816,7 @@
             "AT"
         ],
         "previewTime": 54.0,
+        "previewEndTime": 69.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10276,6 +10878,7 @@
             "AT"
         ],
         "previewTime": 88.446,
+        "previewEndTime": 106.207,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10337,6 +10940,7 @@
             "AT"
         ],
         "previewTime": 50.62,
+        "previewEndTime": 68.75,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10398,6 +11002,7 @@
             "AT"
         ],
         "previewTime": 96.0,
+        "previewEndTime": 111.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10459,6 +11064,7 @@
             "AT"
         ],
         "previewTime": 20.1,
+        "previewEndTime": 39.6,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10520,6 +11126,7 @@
             "AT"
         ],
         "previewTime": 17.973,
+        "previewEndTime": 33.039,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10581,6 +11188,7 @@
             "AT"
         ],
         "previewTime": 83.741,
+        "previewEndTime": 101.866,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10642,6 +11250,7 @@
             "AT"
         ],
         "previewTime": 29.305,
+        "previewEndTime": 46.053,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10703,6 +11312,7 @@
             "AT"
         ],
         "previewTime": 86.0,
+        "previewEndTime": 101.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10764,6 +11374,7 @@
             "AT"
         ],
         "previewTime": 28.601,
+        "previewEndTime": 43.523,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10805,7 +11416,7 @@
         "songsKey": "ρars/ey",
         "songsName": "ρars/ey",
         "difficulty": [
-            3.0,
+            4.0,
             11.3,
             14.7,
             0.0
@@ -10825,6 +11436,7 @@
             "AT"
         ],
         "previewTime": 21.333,
+        "previewEndTime": 45.333,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10886,6 +11498,7 @@
             "AT"
         ],
         "previewTime": 111.832,
+        "previewEndTime": 131.937,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10947,6 +11560,7 @@
             "AT"
         ],
         "previewTime": 38.297,
+        "previewEndTime": 49.787,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -10989,7 +11603,7 @@
         "songsName": "ぱぴぷぴぷぴぱ",
         "difficulty": [
             5.0,
-            11.3,
+            12.3,
             15.5,
             0.0
         ],
@@ -11008,6 +11622,7 @@
             "AT"
         ],
         "previewTime": 92.6,
+        "previewEndTime": 112.6,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11049,8 +11664,8 @@
         "songsKey": "もぺもぺ",
         "songsName": "もぺもぺ",
         "difficulty": [
-            3.5,
-            8.5,
+            2.0,
+            6.5,
             11.1,
             14.9
         ],
@@ -11069,6 +11684,7 @@
             "AT"
         ],
         "previewTime": 7.2,
+        "previewEndTime": 21.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11130,6 +11746,7 @@
             "AT"
         ],
         "previewTime": 63.627,
+        "previewEndTime": 83.441,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11191,6 +11808,7 @@
             "AT"
         ],
         "previewTime": 23.314,
+        "previewEndTime": 43.885,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11252,6 +11870,7 @@
             "AT"
         ],
         "previewTime": 22.4,
+        "previewEndTime": 38.4,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11312,7 +11931,8 @@
             "IN",
             "AT"
         ],
-        "previewTime": 63.0,
+        "previewTime": 63.429,
+        "previewEndTime": 77.143,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11374,6 +11994,7 @@
             "AT"
         ],
         "previewTime": 120.0,
+        "previewEndTime": 136.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11435,6 +12056,7 @@
             "AT"
         ],
         "previewTime": 26.32,
+        "previewEndTime": 51.09,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11476,7 +12098,7 @@
         "songsKey": "光",
         "songsName": "光",
         "difficulty": [
-            5.0,
+            4.0,
             8.4,
             12.8,
             0.0
@@ -11496,6 +12118,7 @@
             "AT"
         ],
         "previewTime": 63.33,
+        "previewEndTime": 97.33,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11557,6 +12180,7 @@
             "AT"
         ],
         "previewTime": 62.01,
+        "previewEndTime": 79.011,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11618,6 +12242,7 @@
             "AT"
         ],
         "previewTime": 91.569,
+        "previewEndTime": 113.741,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11679,6 +12304,7 @@
             "AT"
         ],
         "previewTime": 31.141,
+        "previewEndTime": 42.49,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11721,7 +12347,7 @@
         "songsName": "心之所向",
         "difficulty": [
             4.5,
-            9.7,
+            8.9,
             13.6,
             0.0
         ],
@@ -11740,6 +12366,7 @@
             "AT"
         ],
         "previewTime": 46.663,
+        "previewEndTime": 69.333,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11801,6 +12428,7 @@
             "AT"
         ],
         "previewTime": 70.628,
+        "previewEndTime": 87.771,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11843,7 +12471,7 @@
         "songsName": "望影の方舟Six",
         "difficulty": [
             6.5,
-            12.9,
+            12.1,
             15.7,
             0.0
         ],
@@ -11862,6 +12490,7 @@
             "AT"
         ],
         "previewTime": 71.114,
+        "previewEndTime": 96.514,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11923,6 +12552,7 @@
             "AT"
         ],
         "previewTime": 107.555,
+        "previewEndTime": 122.555,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -11984,6 +12614,7 @@
             "AT"
         ],
         "previewTime": 77.33,
+        "previewEndTime": 100.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12045,6 +12676,7 @@
             "AT"
         ],
         "previewTime": 76.815,
+        "previewEndTime": 93.75,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12106,6 +12738,7 @@
             "AT"
         ],
         "previewTime": 61.56,
+        "previewEndTime": 79.3,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12167,6 +12800,7 @@
             "AT"
         ],
         "previewTime": 92.38,
+        "previewEndTime": 108.571,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12228,6 +12862,7 @@
             "AT"
         ],
         "previewTime": 65.954,
+        "previewEndTime": 82.442,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12270,7 +12905,7 @@
         "songsName": "祈 -我ら神祖と共に歩む者なり-",
         "difficulty": [
             7.5,
-            12.9,
+            13.2,
             15.9,
             16.5
         ],
@@ -12288,7 +12923,8 @@
             "IN",
             "AT"
         ],
-        "previewTime": 110.958,
+        "previewTime": 111.507,
+        "previewEndTime": 128.219,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12331,7 +12967,7 @@
         "songsName": "神話",
         "difficulty": [
             4.0,
-            9.2,
+            8.9,
             13.6,
             0.0
         ],
@@ -12350,6 +12986,7 @@
             "AT"
         ],
         "previewTime": 45.692,
+        "previewEndTime": 60.923,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12411,6 +13048,7 @@
             "AT"
         ],
         "previewTime": 148.8,
+        "previewEndTime": 171.428,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12472,6 +13110,7 @@
             "AT"
         ],
         "previewTime": 82.0,
+        "previewEndTime": 98.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12533,6 +13172,7 @@
             "AT"
         ],
         "previewTime": 102.0,
+        "previewEndTime": 113.4,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12594,6 +13234,7 @@
             "AT"
         ],
         "previewTime": 61.532,
+        "previewEndTime": 81.234,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12636,7 +13277,7 @@
         "songsName": "雪降り、メリクリ",
         "difficulty": [
             5.5,
-            9.3,
+            10.4,
             15.3,
             0.0
         ],
@@ -12655,6 +13296,7 @@
             "AT"
         ],
         "previewTime": 20.664,
+        "previewEndTime": 42.01,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12716,6 +13358,7 @@
             "AT"
         ],
         "previewTime": 73.0,
+        "previewEndTime": 93.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12777,6 +13420,7 @@
             "AT"
         ],
         "previewTime": 43.166,
+        "previewEndTime": 57.833,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12838,6 +13482,7 @@
             "AT"
         ],
         "previewTime": 106.87,
+        "previewEndTime": 126.666,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12899,6 +13544,7 @@
             "AT"
         ],
         "previewTime": 120.0,
+        "previewEndTime": 142.58,
         "unlockInfo": [
             {
                 "unlockType": 0,

@@ -59,6 +59,9 @@ void RootCommandHandler(FileInfo levelFile, FileInfo outputFile)
         for (var j = 0; j < len; j++)
         {
             var songsId = reader.ReadAlignedString();
+            
+            Console.WriteLine(songsId);
+            
             var songsKey = reader.ReadAlignedString();
             var songsName = reader.ReadAlignedString();
             var songsTitle = reader.ReadAlignedString();
@@ -86,6 +89,7 @@ void RootCommandHandler(FileInfo levelFile, FileInfo outputFile)
             }
 
             var previewTime = reader.ReadSingle();
+            var previewEndTime = reader.ReadSingle();
 
             var unlockInfo = new ChartUnlock[reader.ReadInt32()];
             for (var k = 0; k < unlockInfo.Length; k++)
@@ -125,6 +129,7 @@ void RootCommandHandler(FileInfo levelFile, FileInfo outputFile)
                 composer = composer,
                 levels = levels,
                 previewTime = previewTime,
+                previewEndTime = previewEndTime,
                 unlockInfo = unlockInfo,
                 levelMods = levelMods
             };
@@ -170,6 +175,8 @@ internal record SongsItem
     public required string[] levels;
     
     public required float previewTime;
+    
+    public required float previewEndTime;
     
     public required ChartUnlock[] unlockInfo;
     
