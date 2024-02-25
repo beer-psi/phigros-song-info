@@ -1,29 +1,36 @@
 ﻿using System.CommandLine;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
 using phigros_song_info;
+using phigros_song_info.UnityEngine;
 using JsonSerializer = Newtonsoft.Json.JsonSerializer;
 
-var levelArgument = new Argument<FileInfo>(
-    name: "level0",
-    description: "Path to level0 file, or whatever file contains SongBase data");
-var outputArgument = new Argument<FileInfo>(
-    name: "output",
-    description: "Output location",
-    getDefaultValue: () => new FileInfo("songs.json"));
+var gameInformationArgument = new Argument<FileInfo>(
+    name: "GameInformation",
+    description: "Path to a binary dump of GameInformation");
+var tipsProviderArgument = new Argument<FileInfo>(
+    name: "TipsProvider",
+    description: "Path to a binary dump of TipsProvider");
 
 var rootCommand = new RootCommand("Phigros SongBase data extractor");
-rootCommand.AddArgument(levelArgument);
-rootCommand.AddArgument(outputArgument);
-rootCommand.SetHandler(RootCommandHandler, levelArgument, outputArgument);
+rootCommand.AddArgument(gameInformationArgument);
+rootCommand.AddArgument(tipsProviderArgument);
+rootCommand.SetHandler(RootCommandHandler, gameInformationArgument, tipsProviderArgument);
 
 await rootCommand.InvokeAsync(args);
 return;
 
-void RootCommandHandler(FileInfo levelFile, FileInfo outputFile)
+void RootCommandHandler(FileInfo gameInformation, FileInfo tipsProvider)
+{
+    DumpGameInformation(gameInformation);
+    DumpTips(tipsProvider);
+}
+
+void DumpGameInformation(FileInfo gameInformation)
 {
     var pattern = "\x16\x00\x00\x00Glaciaxion.SunsetRay.0\x00\x00\x0A\x00\x00\x00Glaciaxion"u8;
     
-    var levelData = File.ReadAllBytes(levelFile.FullName);
+    var levelData = File.ReadAllBytes(gameInformation.FullName);
     var tmp = new byte[pattern.Length];
     var mainSongsStart = 0;
     var mainSongsFound = false;
@@ -140,7 +147,7 @@ void RootCommandHandler(FileInfo levelFile, FileInfo outputFile)
     
     songs.Sort((a, b) => string.Compare(a.songsId, b.songsId, StringComparison.Ordinal));
 
-    using var output = File.Open(outputFile.FullName, FileMode.Create, FileAccess.Write);
+    using var output = File.Open("docs/songs.json", FileMode.Create, FileAccess.Write);
 
     using var writer = new StreamWriter(output);
     writer.NewLine = "\n";
@@ -151,6 +158,56 @@ void RootCommandHandler(FileInfo levelFile, FileInfo outputFile)
     jw.Indentation = 4;
     
     JsonSerializer.CreateDefault().Serialize(jw, songs, null);
+}
+
+void DumpTips(FileInfo tipsProvider)
+{
+    var tipsData = File.ReadAllBytes(tipsProvider.FullName);
+    var reader = new BinaryReader(new MemoryStream(tipsData));
+    var languageCount = reader.ReadInt32();
+    var tipCollections = new List<TipsCollection>()
+    {
+        Capacity = languageCount
+    };
+
+    for (var i = 0; i < languageCount; i++)
+    {
+        var language = reader.ReadInt32();
+        var tipCount = reader.ReadInt32();
+        var tips = new List<string>()
+        {
+            Capacity = tipCount
+        };
+
+        for (var k = 0; k < tipCount; k++)
+        {
+            tips.Add(reader.ReadAlignedString());
+        }
+        
+        tips.Sort((a, b) => string.Compare(a, b, StringComparison.Ordinal));
+
+        tipCollections.Add(
+            new TipsCollection
+            {
+                language = (SystemLanguage)language,
+                tips = tips,
+            }
+        );
+    }
+    
+    tipCollections.Sort((a, b) => ((int)a.language).CompareTo((int)b.language));
+
+    using var output = File.Open("docs/tips.json", FileMode.Create, FileAccess.Write);
+
+    using var writer = new StreamWriter(output);
+    writer.NewLine = "\n";
+
+    using var jw = new JsonTextWriter(writer);
+    jw.Formatting = Formatting.Indented;
+    jw.IndentChar = ' ';
+    jw.Indentation = 4;
+    
+    JsonSerializer.CreateDefault().Serialize(jw, tipCollections, null);
 }
 
 internal record SongsItem
@@ -193,4 +250,12 @@ internal class ChartUnlock
 internal class LevelMods
 {
     public required string[] levelMods;
+}
+
+internal class TipsCollection
+{
+    [JsonConverter(typeof(StringEnumConverter))]
+    public required SystemLanguage language;
+
+    public required List<string> tips;
 }
