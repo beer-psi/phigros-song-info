@@ -14,17 +14,17 @@ jobs:
       - name: Run
         id: update
         run: |
-          cp .phigros-version .phigros-version-old
+          cp docs/.phigros-version docs/.phigros-version-old
           
           ./update.sh ${{ secrets.IPATOOL_USERNAME }} ${{ secrets.IPATOOL_PASSWORD }}
 
           set +e
-          cmp -s .phigros-version-old .phigros-version
+          cmp -s docs/.phigros-version-old docs/.phigros-version
           echo "updated=$?" >> "$GITHUB_OUTPUT"
           echo "version=$(cat .phigros-version)" >> "$GITHUB_OUTPUT"
           set -e
           
-          rm .phigros-version-old
+          rm docs/.phigros-version-old
       
       - name: Commit if changed
         uses: EndBug/add-and-commit@v9
