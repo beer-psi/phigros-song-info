@@ -30,7 +30,7 @@ jobs:
         uses: EndBug/add-and-commit@v9
         if: ${{ steps.update.outputs.updated == '1' }}
         with:
-          add: songs.json .phigros-version
+          add: docs
           tag: "v${{ steps.update.outputs.version }}"
           default_author: github_actions
           message: "Phigros ${{ steps.update.outputs.version }}"
