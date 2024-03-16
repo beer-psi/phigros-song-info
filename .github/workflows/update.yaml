@@ -21,7 +21,7 @@ jobs:
           set +e
           cmp -s docs/.phigros-version-old docs/.phigros-version
           echo "updated=$?" >> "$GITHUB_OUTPUT"
-          echo "version=$(cat .phigros-version)" >> "$GITHUB_OUTPUT"
+          echo "version=$(cat docs/.phigros-version)" >> "$GITHUB_OUTPUT"
           set -e
           
           rm docs/.phigros-version-old
