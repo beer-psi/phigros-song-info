@@ -813,6 +813,68 @@
         ]
     },
     {
+        "songsId": "ArtificialExistence.JunKuroda.0",
+        "songsKey": "Artificial Existence",
+        "songsName": "Artificial Existence",
+        "difficulty": [
+            4.0,
+            10.2,
+            14.9,
+            0.0
+        ],
+        "illustrator": "2AI4wU4",
+        "charter": [
+            "Salt",
+            "Salt",
+            "Salt & _鉄 inspired by 存在証明 [X]",
+            ""
+        ],
+        "composer": "Jun Kuroda",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 80.42,
+        "previewEndTime": 110.42,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
         "songsId": "Aventyr.GrandThawRigelTheatre.0",
         "songsKey": "Aventyr",
         "songsName": "Äventyr",
@@ -5650,6 +5712,68 @@
                 "unlockInfo": [
                     "unlockFlagOfIgalltaIN"
                 ]
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "IndelibleScar.Noah.0",
+        "songsKey": "Indelible Scar",
+        "songsName": "Indelible Scar",
+        "difficulty": [
+            7.5,
+            11.7,
+            15.3,
+            16.2
+        ],
+        "illustrator": "兜",
+        "charter": [
+            "Clutter & Barbarianerman",
+            "Salt & Barbarianerman",
+            "Likey affected by Ancestral Xhronicle",
+            "上班睡大觉_Sleepyhead"
+        ],
+        "composer": "Noah",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 92.556,
+        "previewEndTime": 108.968,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
             },
             {
                 "unlockType": 0,
@@ -10628,6 +10752,68 @@
         ],
         "previewTime": 85.088,
         "previewEndTime": 107.122,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "Xenolith.Tatsh.0",
+        "songsKey": "Xenolith",
+        "songsName": "Xenolith",
+        "difficulty": [
+            5.0,
+            8.5,
+            14.6,
+            0.0
+        ],
+        "illustrator": "2AI4wU4",
+        "charter": [
+            "RXhuang",
+            "RXhuang",
+            "Xlutter guided by three Oaths",
+            ""
+        ],
+        "composer": "Tatsh",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 40.235,
+        "previewEndTime": 57.176,
         "unlockInfo": [
             {
                 "unlockType": 0,
