@@ -503,6 +503,68 @@
         ]
     },
     {
+        "songsId": "Antithese.Blacklolita.0",
+        "songsKey": "Antithese",
+        "songsName": "Antithese",
+        "difficulty": [
+            5.5,
+            11.8,
+            15.2,
+            15.9
+        ],
+        "illustrator": "釜飯轟々丸 + jht (Design: 祈莲)",
+        "charter": [
+            "SeveredEntity (BlindForest vs rN) feat. Δ",
+            "Δ (M3d1uM vs Salt)",
+            "StupiGGy -The Origin-",
+            "弧光"
+        ],
+        "composer": "Blacklolita",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 35.93,
+        "previewEndTime": 53.325,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
         "songsId": "Aphasia.闫东炜.0",
         "songsKey": "Aphasia",
         "songsName": "Aphasia",
@@ -2768,8 +2830,8 @@
             "IN",
             "AT"
         ],
-        "previewTime": 114.375,
-        "previewEndTime": 129.375,
+        "previewTime": 114.4,
+        "previewEndTime": 129.4,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -6444,8 +6506,8 @@
             "IN",
             "AT"
         ],
-        "previewTime": 40.421,
-        "previewEndTime": 63.158,
+        "previewTime": 41.0,
+        "previewEndTime": 61.0,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -7631,6 +7693,68 @@
         ],
         "previewTime": 48.0,
         "previewEndTime": 69.588,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "PRAGMATISMRESURRECTION.Laur.0",
+        "songsKey": "PRAGMATISM -RESURRECTION-",
+        "songsName": "PRAGMATISM -RESURRECTION-",
+        "difficulty": [
+            7.5,
+            12.9,
+            15.6,
+            16.3
+        ],
+        "illustrator": "シエラ (Design: 祈莲)",
+        "charter": [
+            "完璧 [WARNING: DRAG OVERLOAD]",
+            "完壁 × 北星",
+            "-NerSAN & Su1fuR-",
+            "THE LAST 198"
+        ],
+        "composer": "Laur",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 117.62,
+        "previewEndTime": 137.62,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9000,7 +9124,7 @@
             "AT"
         ],
         "previewTime": 81.2,
-        "previewEndTime": 107.2,
+        "previewEndTime": 101.2,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -9883,7 +10007,7 @@
             "AT"
         ],
         "previewTime": 103.88,
-        "previewEndTime": 118.209,
+        "previewEndTime": 121.791,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -12119,8 +12243,8 @@
             "IN",
             "AT"
         ],
-        "previewTime": 63.429,
-        "previewEndTime": 77.143,
+        "previewTime": 63.0,
+        "previewEndTime": 78.864,
         "unlockInfo": [
             {
                 "unlockType": 0,
@@ -13111,7 +13235,7 @@
             "IN",
             "AT"
         ],
-        "previewTime": 111.507,
+        "previewTime": 110.958,
         "previewEndTime": 128.219,
         "unlockInfo": [
             {
