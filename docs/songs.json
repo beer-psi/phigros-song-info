@@ -7742,7 +7742,7 @@
         "illustrator": "シエラ (Design: 祈莲)",
         "charter": [
             "完璧 [WARNING: DRAG OVERLOAD]",
-            "完壁 × 北星",
+            "完璧 × 北星",
             "-NerSAN & Su1fuR-",
             "THE LAST 198"
         ],
@@ -9457,6 +9457,68 @@
                     "心之所向INSGrade",
                     "inferiorINSGrade"
                 ]
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "ShineAfter.ADeanJocularACE.0",
+        "songsKey": "Shine After",
+        "songsName": "Shine After",
+        "difficulty": [
+            4.0,
+            9.9,
+            14.6,
+            0.0
+        ],
+        "illustrator": "海里狄七 feat. 存艺",
+        "charter": [
+            "Su1fuR",
+            "Su1fuR",
+            "Salt & Uvernight",
+            ""
+        ],
+        "composer": "ADean & JocularACE",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 120.34,
+        "previewEndTime": 135.34,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
             }
         ],
         "levelMods": [
