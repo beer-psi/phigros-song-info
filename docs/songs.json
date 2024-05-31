@@ -1247,6 +1247,68 @@
         ]
     },
     {
+        "songsId": "Bloom.targ麻团qwq.0",
+        "songsKey": "Bloom",
+        "songsName": "Bloom",
+        "difficulty": [
+            3.0,
+            10.6,
+            14.9,
+            0.0
+        ],
+        "illustrator": "注射",
+        "charter": [
+            "Salt & Barbarianerman",
+            "Salt & Barbarianerman",
+            "SPΔDE & 倪尔qwq",
+            ""
+        ],
+        "composer": "targ & 麻团qwq",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 66.4,
+        "previewEndTime": 81.6,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
         "songsId": "BonusTime.MegaloPaleWhite.0",
         "songsKey": "Bonus Time",
         "songsName": "Bonus Time",
