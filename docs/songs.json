@@ -1251,8 +1251,8 @@
         "songsKey": "Bloom",
         "songsName": "Bloom",
         "difficulty": [
-            3.0,
-            10.6,
+            3.5,
+            11.2,
             14.9,
             0.0
         ],
@@ -12592,6 +12592,68 @@
         ]
     },
     {
+        "songsId": "千紫万紅.r0yvsWABI.0",
+        "songsKey": "千紫万紅",
+        "songsName": "千紫万紅",
+        "difficulty": [
+            4.5,
+            12.1,
+            15.6,
+            0.0
+        ],
+        "illustrator": "中本ひょうり",
+        "charter": [
+            "Rikko",
+            "実戦 with Rikko",
+            "Salt & Barbarianerman",
+            ""
+        ],
+        "composer": "r0y vs. WABI",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 105.47,
+        "previewEndTime": 124.47,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
         "songsId": "大和撫子WildDances.adapatorvsDRIVE.0",
         "songsKey": "大和撫子 -Wild Dances-",
         "songsName": "大和撫子 -Wild Dances-",
@@ -12716,6 +12778,68 @@
         ]
     },
     {
+        "songsId": "幽世桔梗.Capchiifeatまるもこ.0",
+        "songsKey": "幽世桔梗",
+        "songsName": "幽世桔梗",
+        "difficulty": [
+            3.0,
+            10.1,
+            14.8,
+            0.0
+        ],
+        "illustrator": "瀬名",
+        "charter": [
+            "RipHall vs. Likey",
+            "RipHall vs. Likey",
+            "Su1fuR、快斬！",
+            ""
+        ],
+        "composer": "Capchii feat. まるもこ",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 13.19,
+        "previewEndTime": 34.931,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
         "songsId": "开心病.闫东炜.0",
         "songsKey": "开心病",
         "songsName": "开心病",
@@ -12803,6 +12927,68 @@
         ],
         "previewTime": 46.663,
         "previewEndTime": 69.333,
+        "unlockInfo": [
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            },
+            {
+                "unlockType": 0,
+                "unlockInfo": []
+            }
+        ],
+        "levelMods": [
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            },
+            {
+                "levelMods": []
+            }
+        ]
+    },
+    {
+        "songsId": "明鏡烈火.MUEvsRekuMochizuki.0",
+        "songsKey": "明鏡烈火",
+        "songsName": "明鏡烈火",
+        "difficulty": [
+            6.5,
+            11.3,
+            15.8,
+            0.0
+        ],
+        "illustrator": "中本ひょうり",
+        "charter": [
+            "COC  feat. Su1fuR",
+            "COC  feat. Su1fuR",
+            "Arenn Salty feat. LDA",
+            ""
+        ],
+        "composer": "M-UE vs. Reku Mochizuki",
+        "levels": [
+            "EZ",
+            "HD",
+            "IN",
+            "AT"
+        ],
+        "previewTime": 99.744,
+        "previewEndTime": 118.744,
         "unlockInfo": [
             {
                 "unlockType": 0,
